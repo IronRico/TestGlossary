@@ -15,16 +15,11 @@
 **Archive Folder:** a consistent file structure with use constraints and backup schedule that houses the definitive record of a project’s data resources. Products in the archive folder are the subject of metadata records and are the versions intended for use and dissemination. Contrast with working folder. [ug] 
 
 
-# A collapsible section with markdown
+**Archive Folder:** a consistent file structure with use constraints and backup schedule
 <details>
   <summary>Click to read full definition!</summary>
-
-<details><summary>CLICK ME</summary>
 <p>
-
-#### yes, even hidden code blocks!
-
-
+A consistent file structure with use constraints and backup schedule that houses the definitive record of a project’s data resources. Products in the archive folder are the subject of metadata records and are the versions intended for use and dissemination. Contrast with working folder.
 
 </p>
 </details>
