@@ -1,6 +1,7 @@
-layout: page
+<!--layout: page
 title: "A"
-permalink: https://ironrico.github.io/TestGlossary/A
+permalink: https://ironrico.github.io/TestGlossary/A -->
+
 ___
 
 
@@ -12,6 +13,7 @@ ___
 
 
 # **A:** 
+
 ___
  
 
