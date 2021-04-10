@@ -1,6 +1,6 @@
-layout: page
+<!--layout: page
 title: "B"
-permalink: https://ironrico.github.io/TestGlossary/B
+permalink: https://ironrico.github.io/TestGlossary/B -->
 
 # **B:** 
 
