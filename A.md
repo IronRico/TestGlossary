@@ -17,6 +17,7 @@ ___
 
 ### **ADIwg:** 
 Alaska Data Integration working group, [ADIWG](https://www.adiwg.org/).
+
 ___
  
 
@@ -28,6 +29,7 @@ The degree to which the resource is obtainable by an interested party.
 The degree to which the resource is obtainable by an interested party. Direct access without constraint would be the most accessible (e.g., resources that may be downloaded without requiring a login), whereas resources that require third-party intervention would be less accessible. [ug] 
 </p>
 </details>
+
 ___
 
 
@@ -39,5 +41,6 @@ A consistent file structure with use constraints and backup schedule.
 A consistent file structure with use constraints and backup schedule that houses the definitive record of a project’s data resources. Products in the archive folder are the subject of metadata records and are the versions intended for use and dissemination. Contrast with working folder.
 </p>
 </details>
+
 ___
 
