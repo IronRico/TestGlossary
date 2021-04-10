@@ -7,7 +7,7 @@
 ---
 
 
-# **A:** 
+# [**A**](https://ironrico.github.io/TestGlossary/A) 
 
  
 ---
