@@ -5,3 +5,6 @@ description: Just a quick area to work on ideas for the AK F&W glossary of terms
 collections:
   glossary:
     output: true
+    permalink: /glossary/:path/
+    
+    
