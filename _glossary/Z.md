@@ -3,8 +3,9 @@ title: "Z"
 ---
 ___
 
+## [A]() B[]() C[]() D[]() E[]() F[]() G[]() H[]() J[]() K[]() L[]() M[]() N[]() 
+## O[]() P[]() Q[]() R[]() S[]() T[]() U[]() V[]() X[]() Y[]() Z[]()
 
-[Go back to main glossary](https://ironrico.github.io/TestGlossary/)
 ___
 
 # **Z:** 
