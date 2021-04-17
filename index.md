@@ -1,6 +1,6 @@
 ## Testing page for Alaska Region Glossary
 <hr>
-# [Collections Testing Site](glossary.A)
+### [Collections Testing Site](glossary/A/)
 
 ---
 ---
