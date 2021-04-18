@@ -1,10 +1,8 @@
-## Testing page for Alaska Region Glossary
+## Testing Page for Alaska Region Glossary
 <hr>
 ### [Collections Testing Site](glossary/A/)
 
----
----
----
+___
 
 
 # [**A**](https://ironrico.github.io/TestGlossary/A) 
