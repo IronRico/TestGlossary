@@ -1,15 +1,9 @@
 ---
 title: "A"
+layout: glossaryLayout
 ---
 
 ___
-
-
-
-___
-
-
-
 
 # **A:** 
 
