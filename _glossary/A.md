@@ -5,7 +5,6 @@ title: "A"
 ___
 
 
-# **[Go back to main glossary](https://ironrico.github.io/TestGlossary/)**
 
 ___
 
