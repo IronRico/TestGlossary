@@ -1,6 +1,6 @@
 ---
 layout: glossaryLayout
-title: Home Glossary Testing Page
+title: Home
 ---
 
 ## Testing Page for Alaska Region Glossary
