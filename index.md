@@ -3,14 +3,14 @@ title: Home
 ---
 <head>
 <style>
-body {
-background-color: tan;
+div{
+background-color:tan;
+color:black;
 }
 </style>
 </head>
 
 ## Testing Page for Alaska Region Glossary
-<h2>Testing for CSS application<h2>
 ___
 
 
