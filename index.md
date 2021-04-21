@@ -3,7 +3,7 @@ title: Home
 ---
 <head>
 <style>
-div{
+#text{
 background-color:tan;
 color:black;
 }
