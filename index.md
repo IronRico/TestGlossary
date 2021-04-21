@@ -1,8 +1,19 @@
 ---
 title: Home
 ---
+<head>
+<style>
+body {
+background-color: cyan;
+}
+h2 {
+color: red;
+}
+</style>
+</head>
 
 ## Testing Page for Alaska Region Glossary
+<h2>Testing for CSS application<h2>
 ___
 
 
