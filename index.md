@@ -61,11 +61,6 @@ ___
 # [**Y**](https://ironrico.github.io/TestGlossary/Y) 
 ---
 
-<div id="text"></div>
-
-<script>
-document.getElementById("text").innerHTML = "I have been added by simple JavaScript code.";
-</script>
 
 
 
