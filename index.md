@@ -85,7 +85,7 @@ ___
 <div id="text"></div>
 
 <script>
-document.getElementById("text").innerHTML = "I have been added by simple JavaScript code.";
+document.getElementById("text").innerHTML = "This text represents working JS on the page.";
 </script>
 
 
