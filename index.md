@@ -4,10 +4,7 @@ title: Home
 <head>
 <style>
 body {
-background-color: cyan;
-}
-h2 {
-color: red;
+background-color: tan;
 }
 </style>
 </head>
