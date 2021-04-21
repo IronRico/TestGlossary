@@ -1,12 +1,8 @@
 ---
-layout: glossaryLayout
 title: Home
 ---
 
 ## Testing Page for Alaska Region Glossary
-<hr>
-### [Collections Testing Site](glossary/A/)
-
 ___
 
 
