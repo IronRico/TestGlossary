@@ -33,7 +33,6 @@ body {
 
 <div class="topnav">
   <a class="active" href="https://ironrico.github.io/TestGlossary/A">A</a>
-  <a href="https://ironrico.github.io/TestGlossary/A">A</a>
   <a href="https://ironrico.github.io/TestGlossary/B">B</a>
   <a href="https://ironrico.github.io/TestGlossary/C">C</a>
   <a href="https://ironrico.github.io/TestGlossary/D">D</a>
