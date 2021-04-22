@@ -1,9 +1,5 @@
 <head>
 <style>
-body {
-  margin: 0;
-  font-family: Arial, Helvetica, sans-serif;
-}
 
 .topnav {
   overflow: hidden;
@@ -53,10 +49,10 @@ body {
   <a href="https://ironrico.github.io/TestGlossary/S">S</a>
   <a href="https://ironrico.github.io/TestGlossary/T">T</a>
   <a href="https://ironrico.github.io/TestGlossary/U">U</a>
-  <a href="https://ironrico.github.io/TestGlossary/V">U</W>
-  <a href="https://ironrico.github.io/TestGlossary/X">X</X>
-  <a href="https://ironrico.github.io/TestGlossary/Y">Y</Y>
-  <a href="https://ironrico.github.io/TestGlossary/Z">Z</Z>
+  <a href="https://ironrico.github.io/TestGlossary/V">V</a>
+  <a href="https://ironrico.github.io/TestGlossary/X">X</a>
+  <a href="https://ironrico.github.io/TestGlossary/Y">Y</a>
+  <a href="https://ironrico.github.io/TestGlossary/Z">Z</a>
 </div>
 ___
 
