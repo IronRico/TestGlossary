@@ -1,9 +1,9 @@
-layout: page
+---
 title: "L"
 permalink: https://ironrico.github.io/TestGlossary/L
-
-# **L:** 
 ---
+# **L:** 
+___
 
 **Local Storage Cache:**
 Local Storage Cache allows an application to store data locally, in a user’s browser. 
