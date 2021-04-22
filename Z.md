@@ -4,8 +4,7 @@ title: "Z"
 permalink: https://ironrico.github.io/TestGlossary/Z
 ---
 ___
-{% include_relative navs.md %}
-___
+
 
 [Go back to main glossary](https://ironrico.github.io/TestGlossary/)
 ___
