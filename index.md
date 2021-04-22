@@ -1,7 +1,4 @@
----
-layout: default
-title: Home
----
+
 <head>
 <style>
 #text{
@@ -16,6 +13,7 @@ border-radius: 50px;
 </head>
 
 ## Testing Page for Alaska Region Glossary
+{% include nav1.html %}
 ___
 
 
