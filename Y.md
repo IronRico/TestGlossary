@@ -1,6 +1,11 @@
+---
 layout: page
 title: "Y"
 permalink: https://ironrico.github.io/TestGlossary/Y
+---
+___
+___
+{% include_relative testingpage.md %}
 ___
 
 
