@@ -5,7 +5,7 @@ permalink: https://ironrico.github.io/TestGlossary/Y
 ---
 
 ___
-{% include testingpage.md %}
+{% include nav.md %}
 ___
 
 
