@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: "Y"
 permalink: https://ironrico.github.io/TestGlossary/Y
 ---
