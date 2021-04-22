@@ -1,6 +1,3 @@
-layout: page
-title: "D"
-permalink: https://ironrico.github.io/TestGlossary/D
 
 # **D:** 
 
