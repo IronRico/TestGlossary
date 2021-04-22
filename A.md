@@ -1,13 +1,4 @@
-<!--layout: page
-title: "A"
-permalink: https://ironrico.github.io/TestGlossary/A -->
 
-
-
-
-
-
-# **A:** 
 
 ___
  
