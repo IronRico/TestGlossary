@@ -1,7 +1,4 @@
----
-title: "L"
-permalink: https://ironrico.github.io/TestGlossary/L
----
+
 # **L:** 
 ___
 
