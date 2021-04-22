@@ -53,10 +53,10 @@ body {
   <a href="https://ironrico.github.io/TestGlossary/S">S</a>
   <a href="https://ironrico.github.io/TestGlossary/T">T</a>
   <a href="https://ironrico.github.io/TestGlossary/U">U</a>
-  <a href="https://ironrico.github.io/TestGlossary/V">W</W>
-  <a href="https://ironrico.github.io/TestGlossary/E">X</X>
-  <a href="https://ironrico.github.io/TestGlossary/E">Y</Y>
-  <a href="https://ironrico.github.io/TestGlossary/E">Z</Z>
+  <a href="https://ironrico.github.io/TestGlossary/V">U</W>
+  <a href="https://ironrico.github.io/TestGlossary/X">X</X>
+  <a href="https://ironrico.github.io/TestGlossary/Y">Y</Y>
+  <a href="https://ironrico.github.io/TestGlossary/Z">Z</Z>
 </div>
 ___
 
