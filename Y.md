@@ -5,8 +5,7 @@ permalink: https://ironrico.github.io/TestGlossary/Y
 ---
 
 ___
-{% include navs.md %}
-___
+
 
 
 [Go back to main glossary](https://ironrico.github.io/TestGlossary/)
