@@ -100,4 +100,6 @@ ___
 document.getElementById("text").innerHTML = "This text represents working JS on the page.";
 </script>
 
+___
 
+# [**NavTest**](https://ironrico.github.io/TestGlossary/testingpage) 
