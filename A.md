@@ -1,3 +1,5 @@
+{% include nav1.html %}
+
 # **A:**
 
 ___
