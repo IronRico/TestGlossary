@@ -1,11 +1,3 @@
 remote_theme: broccolini/swiss
 title: Testing Site for AK Glossary Concepts
-description: Just a quick area to work on ideas for the AK F&W glossary of terms.
-future: true
-
-collections:
-  glossary:
-     output: true
-     permalink: /glossary/:path/
-    
     
