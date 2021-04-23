@@ -1,14 +1,7 @@
-<!--layout: page
-title: "Q"
-permalink: https://ironrico.github.io/TestGlossary/Q -->
+### **[Go back to home](https://ironrico.github.io/TestGlossary/)**
 
+{% include nav1.html %}
 ___
-
-
-# **[Go back to main glossary](https://ironrico.github.io/TestGlossary/)**
-
-___
-
 
 
 
