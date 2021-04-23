@@ -1,9 +1,10 @@
-layout: page
-title: "K"
-permalink: https://ironrico.github.io/TestGlossary/K
+### **[Go back to home](https://ironrico.github.io/TestGlossary/)**
+
+{% include nav1.html %}
+___
 
 # **K:** 
----
+___
 
 
 **Keywords:**
