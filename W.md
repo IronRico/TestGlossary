@@ -1,6 +1,7 @@
-layout: page
-title: "W"
-permalink: https://ironrico.github.io/TestGlossary/W
+### **[Go back to home](https://ironrico.github.io/TestGlossary/)**
+
+{% include nav1.html %}
+___
 
 # **W:** 
 ___
