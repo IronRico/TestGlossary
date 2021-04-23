@@ -1,7 +1,6 @@
-<!--layout: page
-title: "G"
-permalink: https://ironrico.github.io/TestGlossary/G -->
+### **[Go back to home](https://ironrico.github.io/TestGlossary/)**
 
+{% include nav1.html %}
 ___
 
 
