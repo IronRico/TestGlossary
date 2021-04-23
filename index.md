@@ -3,7 +3,7 @@
 <style>
 body {
   background-image: url('https://digitalmedia.fws.gov/digital/api/singleitem/image/natdiglib/7542/default.jpg?highlightTerms=');
-  background-position: center; 
+  background-position: top; 
   background-repeat: no-repeat;
   background-size: cover; 
 }
