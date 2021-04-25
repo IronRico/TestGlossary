@@ -23,7 +23,6 @@ role in reproducibility.
 
 ___
 
-[repoLink]:
 ### **Repository:** 
 Location for the storage of a resource. Often used interchangeably with Archive.
 
