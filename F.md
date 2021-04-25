@@ -1,13 +1,11 @@
 ### **[Go back to home](https://ironrico.github.io/TestGlossary/)**
 
 {% include nav1.html %}
-___
 
 # **F:**
 
 ___
  
-
 ### **FGDC:** 
 Federal Geographic Data Committee (found at [https://www.fgdc.gov/](https://www.fgdc.gov/). 
 
