@@ -1,11 +1,9 @@
 ### **[Go back to home](https://ironrico.github.io/TestGlossary/)**
 
 {% include nav1.html %}
-___
 
 # **M:** 
 ___
-
 
 ### **Machine Readable:** 
 Data in a format that can be easily processed by a computer without human intervention while ensuring no semantic 
@@ -29,7 +27,6 @@ A web application used to write archival-quality metadata for projects and data 
 for both projects and products.
 ___
 
-
 ### **mdEditor Auto-Save:**
 A feature in mdEditor settings that allows information to be automatically saved as it is entered. 
 Consult the [Settings](https://guide.mdeditor.org/reference/settings-window/settings-general.html) section of this manual for more information. 
@@ -41,17 +38,14 @@ settings. This can be exported and shared with collaborators, imported into anot
 local workstation as a backup or archival copy.
 ___
 
-
 ### **mdJSON:**
 ADIwg standard for encoding project and data metadata, based on JavaScript Object Notation [(JSON)](https://ironrico.github.io/TestGlossary/J).
 ___
-
 
 ### **mdJSON File:** 
 An mdJSON file that is proprietary to the Metadata toolkit developed by the Alaska Data Integration Working Group (ADIWG). 
 Learn more at [https://adiwg.github.io/mdTools/](https://adiwg.github.io/mdTools/).
 ___
-
 
 ### **mdJSON Record:** 
 In mdJSON, records can be one of three types; metadata record, contact, or dictionary. 
@@ -64,7 +58,6 @@ Metadata is input in one of the supported ‘reader’ formats and output in one
 Available as Ruby gem or Command-Line-Interface.
 ___
 
-
 ### **Memory:**
 The volatile high-speed RAM (Random Access Memory) that is the temporary working storage for all computer applications
 and data. Once a unit of work is complete it must be moved to a non-volatile storage area such as browser cache or 
@@ -73,10 +66,12 @@ by other applications.
 ___
 
 ### **Metadata:** 
+1:
 Structural or descriptive information about data such as content, format, source, rights, accuracy, provenance, 
 frequency, periodicity, granularity, contact information, publisher or responsible party, method of collection, and 
 other descriptions. See 44 U.S.C. 3502. 
 
+2:
 Data that describes and provides additional information about other data to promote discoverability and proper use.
 ___
 
