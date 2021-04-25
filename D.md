@@ -61,7 +61,7 @@ A role that is responsible for creating data.
 ___
 
 ### **Data Repository:**
-See entry "Repository"
+See entry ["Repository"](https://ironrico.github.io/TestGlossary/R)
 
 ___
 
