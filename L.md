@@ -6,7 +6,7 @@ ___
 # **L:**
 ___
 
-**Local Storage Cache:**
+### **Local Storage Cache:**
 Local Storage Cache allows an application to store data locally, in a user’s browser. 
 Storing information on the browser’s local storage cache (instead of a normal file cache) means that if you use a 
 different browser to access the mdEditor, it will not show the data you’ve imported from your first browser. 
