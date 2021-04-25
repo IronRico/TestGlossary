@@ -3,6 +3,7 @@
 {% include nav1.html %}
 
 # **O:** 
+
 ___
 
 ### **Open Format:** 
@@ -12,11 +13,13 @@ platform-independent, and machine-readable.
 
 Data format that is platform independent, machine readable, and made available to the public without 
 restrictions that would impede the re-use of that information. 
+
 ___
 
 ### **Open License:** 
 A legal guarantee that a data asset is made available at no cost to the public and with no restrictions on 
 copying, publishing, distributing, transmitting, citing, or adapting such an asset. See 44 U.S.C. 3502.
+
 ___
 
 
