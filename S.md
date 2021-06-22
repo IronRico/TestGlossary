@@ -9,6 +9,7 @@ ___
 ### **sbJSON:** 
 U.S. Geological Survey’s standard for documenting records ingested into ScienceBase Catalog. 
 The format used to define the attributes of ScienceBase items.
+
 ___
 
 
