@@ -7,13 +7,19 @@ ___
 
 ### **Machine Readable:** 
 Data in a format that can be easily processed by a computer without human intervention while ensuring no semantic 
-meaning is lost [44 USC 3502(18)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title44-section3502&num=0&edition=prelim#substructure-location_18).
+meaning is lost. [44 USC 3502(18)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title44-section3502&num=0&edition=prelim#substructure-location_18).
 
+<details>
+  <summary>Click to read full definition!</summary>
+<p>
 **Other policy definitions:**
 
 **POD** “Refers to information or data that is in a format that can be easily processed by a computer without human intervention while ensuring no semantic meaning is lost.” 
 
 **OMB M-13-13** _“…data are reasonably structured to allow automated processing.”_
+</p>
+</details>
+
 
 ___
 
@@ -61,21 +67,39 @@ All records that have been loaded into browser cache can be accessed from the Pr
 ___
 
 ### **mdTranslator:**
-Open-source Ruby software application for translating between metadata standards. 
+Open-source Ruby software application for translating between metadata standards.
+
+<details>
+  <summary>Click to read full definition!</summary>
+<p>
 Metadata is input in one of the supported ‘reader’ formats and output in one of the supported ‘writer’ formats. 
 Available as Ruby gem or Command-Line-Interface.
+</p>
+</details>
 
 ___
 
 ### **Memory:**
 The volatile high-speed RAM (Random Access Memory) that is the temporary working storage for all computer applications
-and data. Once a unit of work is complete it must be moved to a non-volatile storage area such as browser cache or 
+and data. 
+
+<details>
+  <summary>Click to read full definition!</summary>
+<p>
+Once a unit of work is complete it must be moved to a non-volatile storage area such as browser cache or 
 local storage to be saved for later access. Once an application is closed its memory space is cleared to be used 
 by other applications. 
+</p>
+</details>
 
 ___
 
 ### **Metadata:** 
+Structural or descriptive information about data.
+
+<details>
+  <summary>Click to read full definition!</summary>
+<p>
 1:
 Structural or descriptive information about data such as content, format, source, rights, accuracy, provenance, 
 frequency, periodicity, granularity, contact information, publisher or responsible party, method of collection, and 
@@ -83,7 +107,8 @@ other descriptions. See 44 U.S.C. 3502.
 
 2:
 Data that describes and provides additional information about other data to promote discoverability and proper use.
-
+</p>
+</details>
 ___
 
 ### **Metadata Repository:** 
