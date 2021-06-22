@@ -27,7 +27,7 @@ ScienceBase architecture is designed to help science teams and data practitioner
 data and information resources to create a foundation needed for their work. ScienceBase, both original 
 software and engineered components, is released as an open-source project to promote involvement from the 
 larger scientific programming community both inside and outside the USGS. (USGS (2018). About ScienceBase. 
-Retrieved from: <a href="https://www.sciencebase.gov/about/content/about-sciencebase](https://www.sciencebase.gov/about/content/about-sciencebase">Sciencebase.gov</a>.
+Retrieved from: <a href="https://www.sciencebase.gov/about/content/about-sciencebase">Sciencebase.gov</a>.
 </p>
 </details>
 
