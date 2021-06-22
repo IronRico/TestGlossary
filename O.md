@@ -7,12 +7,19 @@
 ___
 
 ### **Open Format:** 
+A format for data that is unencumbered by any copyrights, patents, trademarks, or other restrictions.
+
+<details>
+  <summary>Click to read full definition!</summary>
+<p>
 A format for data that is unencumbered by any copyrights, patents, trademarks, or other restrictions, 
 so that anyone may use it at no monetary cost for any desired purpose. Open formats are non-proprietary, 
-platform-independent, and machine-readable.
+platform-independent, and machine-readable.<br>
 
 Data format that is platform independent, machine readable, and made available to the public without 
 restrictions that would impede the re-use of that information. 
+</p>
+</details>
 
 ___
 
