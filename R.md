@@ -17,7 +17,7 @@ Raw data has not been subjected to processing, "cleaning" by researchers to remo
 obvious instrument reading errors or data entry errors, or any analysis.<br> 
 Raw data has not been subject to any other manipulation by a software program or a human researcher, analyst or 
 technician. [Wikipedia] <br> 
-  See also: <a href="https://ironrico.github.io/TestGlossary/P">Processed Data]</a> 
+  See also: <a href="https://ironrico.github.io/TestGlossary/P">Processed Data</a> 
 </p>
 </details>
 
