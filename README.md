@@ -60,7 +60,7 @@ The format for a definition entry is show below:
 
 ```markdown
 ### **ADIwg:** 
-Alaska Data Integration working group, [ADIWG](https://www.adiwg.org/).
+Alaska Data Integration working group.
 ```
 
 - The three # marks provide the H3 heading format for the term. 
