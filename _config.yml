@@ -1,8 +1,5 @@
 theme: jekyll-theme-leap-day
-title: AK Fish & Wildlife Glossary (W.I.P)
+title: AK Fish & Wildlife Glossary 
     
-collections:
-  pages:
-   output: true
-   permalink: /Glossary/:path/
+
   
