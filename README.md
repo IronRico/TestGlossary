@@ -54,9 +54,7 @@ or resource links as needed.
 
 ### The Glossary Pages
 
-Each letter in the glossary has it's own markdown file created from A to Z.
-
-The format for a definition entry is show below:
+Each letter in the glossary has it's own markdown file created from A to Z. The format for a definition entry is show below:
 
 ```markdown
 ### **ADIwg:** 
