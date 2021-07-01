@@ -7,7 +7,7 @@ ___
  
 
 ### **ADIwg:** 
-: Alaska Data Integration working group, [ADIWG](https://www.adiwg.org/).
+Alaska Data Integration working group, [ADIWG](https://www.adiwg.org/).
 
 ___
  
