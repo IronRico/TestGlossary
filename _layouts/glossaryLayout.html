@@ -4,7 +4,18 @@
     <meta charset="utf-8">
     <title>{{ page.title }}</title>
   </head>
-  <body>
+  <nav>
+<ul>
+{% for pages in site.pages %}
+<li>
+  <a href="{{ pages.url | prepend: site.baseurl }}">
+   <h4>{{ pages.title }}</h4>
+  </a>
+  </li>
+{% endfor %}
+</ul>
+</nav>
+<body>
     {{content}}
- </body>
+</body>
 </html>
